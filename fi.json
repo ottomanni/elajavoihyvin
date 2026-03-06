@@ -44,7 +44,7 @@
   "services": {
     "eyebrow": "Palvelut",
     "title": "Tukea kehon hyvinvointiin ja liikkumiseen",
-    "intro": "Palvelut voidaan kuvata tarkemmin myöhemmin, mutta tässä valmis perusrakenne neljälle pääpalvelulle.",
+    "intro": "Oton terveiset: Palvelut voidaan kuvata tarkemmin myöhemmin, mutta tässä pohjaksi perusrakenne. Sano jos haluat muuttaa tästä jotain. (TÄMÄ TEKSTI POISTUU)",
     "items": [
       {
         "title": "Jäsenkorjaus",
@@ -71,7 +71,7 @@
   "pricing": {
     "eyebrow": "Hinnasto",
     "title": "Selkeä ja helposti päivitettävä hinnasto",
-    "intro": "Täytä tähän oikeat hinnat. Rakenne on tehty niin, että rivien muokkaus onnistuu helposti ilman frameworkeja.",
+    "intro": "Oton terveiset (tämä teksti poistetaan enne julkaisua): Tähän tarvin sulta oikeat hinnastot ja palvelut.",
     "groups": [
       {
         "title": "Vastaanottokäynnit",
@@ -116,7 +116,7 @@
     ]
   },
   "about": {
-    "eyebrow": "Esittely",
+    "eyebrow": "Esittely (ps lue läpi ja laita uus teksti fb vaikka korjattuna)",
     "name": "Minna Toikka",
     "paragraph1": "Olen hyvinvoinnin ja kehon toimivuuden parissa työskentelevä ammattilainen. Työssäni minulle on tärkeää kohdata asiakas aidosti, kuunnella tarpeita ja rakentaa jokaiselle sopiva polku kohti parempaa oloa.",
     "paragraph2": "Vastaanotollani yhdistyvät lempeys, asiantuntemus ja käytännönläheisyys. Tavoitteena ei ole vain hetkellinen helpotus, vaan pysyvämpi tuki kehon hyvinvointiin, liikkumisen sujuvuuteen ja arjen jaksamiseen.",
