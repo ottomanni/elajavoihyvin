@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "title": "Kehokorjaamo – Jäsenkorjaus & Valmennus",
+    "description": "Kehokorjaamo – Jäsenkorjaus, liikkuvuusvalmennus, kehonhuolto ja Personal Training."
+  },
+  "brand": {
+    "name": "Kehokorjaamo",
+    "tagline": "Jäsenkorjaus & Valmennus"
+  },
+  "nav": {
+    "services": "Palvelut",
+    "pricing": "Hinnasto",
+    "about": "Esittely",
+    "contact": "Yhteystiedot",
+    "cta": "Varaa aika"
+  },
+  "hero": {
+    "eyebrow": "Lempeää, modernia ja tavoitteellista hyvinvointia",
+    "title": "Kehokorjaamo –<br />Jäsenkorjaus & Valmennus",
+    "text": "Kehon toimivuutta, liikkuvuutta ja kokonaisvaltaista hyvinvointia yksilöllisesti. Tarjoan jäsenkorjausta, liikkuvuusvalmennusta, kehonhuoltoa ja Personal Trainingia rauhallisella, asiakaslähtöisellä otteella.",
+    "primaryCta": "Ota yhteyttä",
+    "secondaryCta": "Tutustu palveluihin",
+    "badgeTitle": "Minna Toikka",
+    "badgeText": "Jäsenkorjaus, kehonhuolto ja valmennus lempeällä, ammattitaitoisella otteella.",
+    "image": {
+      "src": "https://github.com/ottomanni/elajavoihyvin/blob/main/kuva.jpg?raw=true",
+      "alt": "Minna Toikka hyvinvointialan työssään"
+    },
+    "highlights": [
+      {
+        "title": "Yksilöllinen kohtaaminen",
+        "text": "Jokainen hoito ja valmennus suunnitellaan sinun tarpeisiin."
+      },
+      {
+        "title": "Kehon toimivuus edellä",
+        "text": "Tavoitteena rennompi, vahvempi ja liikkuvampi arki."
+      },
+      {
+        "title": "Selkeä eteneminen",
+        "text": "Saat konkreettisia ohjeita myös käyntien välille."
+      }
+    ]
+  },
+  "services": {
+    "eyebrow": "Palvelut",
+    "title": "Tukea kehon hyvinvointiin ja liikkumiseen",
+    "intro": "Palvelut voidaan kuvata tarkemmin myöhemmin, mutta tässä valmis perusrakenne neljälle pääpalvelulle.",
+    "items": [
+      {
+        "title": "Jäsenkorjaus",
+        "text": "Jäsenkorjaus on lempeä ja kokonaisvaltainen hoitomuoto, jossa kehoa käsitellään rauhallisesti kuunnellen. Hoidon tavoitteena on vapauttaa kehon jännityksiä, helpottaa kiputiloja, parantaa liikkuvuutta ja tukea kehon luonnollista tasapainoa. Jäsenkorjaus sopii sinulle, joka kaipaat apua esimerkiksi jäykkyyteen, kuormitukseen, palautumiseen tai kehon epätasapainon tuntemuksiin.",
+        "meta": "Kehon tasapaino & palautuminen"
+      },
+      {
+        "title": "Liikkuvuusvalmennus",
+        "text": "Liikkuvuuden parantamiseen tähtäävä valmennus, jossa huomioidaan kehon nykytila, tavoitteet ja turvallinen eteneminen askel kerrallaan.",
+        "meta": "Liikkuvuus & toimintakyky"
+      },
+      {
+        "title": "Kehonhuolto",
+        "text": "Huoltava kokonaisuus, joka auttaa palautumaan kuormituksesta, lisää kehotietoisuutta ja tukee arjen jaksamista sekä hyvää oloa.",
+        "meta": "Palautuminen & hyvinvointi"
+      },
+      {
+        "title": "Personal Training",
+        "text": "Tavoitteellista, mutta inhimillistä valmennusta sinulle, joka haluat vahvistua, voida paremmin ja löytää toimivan rytmin harjoitteluun.",
+        "meta": "Voima & arjen jaksaminen"
+      }
+    ]
+  },
+  "pricing": {
+    "eyebrow": "Hinnasto",
+    "title": "Selkeä ja helposti päivitettävä hinnasto",
+    "intro": "Täytä tähän oikeat hinnat. Rakenne on tehty niin, että rivien muokkaus onnistuu helposti ilman frameworkeja.",
+    "groups": [
+      {
+        "title": "Vastaanottokäynnit",
+        "items": [
+          {
+            "name": "Jäsenkorjaus 60 min",
+            "description": "Ensikäynti tai yksittäinen hoitokerta",
+            "price": "65 €"
+          },
+          {
+            "name": "Jäsenkorjaus 90 min",
+            "description": "Laajempi käsittely ja tilanteen kartoitus",
+            "price": "89 €"
+          },
+          {
+            "name": "Kehonhuolto 60 min",
+            "description": "Huoltava ja palauttava käynti",
+            "price": "58 €"
+          }
+        ]
+      },
+      {
+        "title": "Valmennukset",
+        "items": [
+          {
+            "name": "Liikkuvuusvalmennus",
+            "description": "Yksilöllinen ohjaus ja harjoitteet",
+            "price": "72 €"
+          },
+          {
+            "name": "Personal Training",
+            "description": "Yksittäinen tapaaminen",
+            "price": "79 €"
+          },
+          {
+            "name": "Valmennuspaketti",
+            "description": "Esimerkki 4 x tapaamista",
+            "price": "299 €"
+          }
+        ]
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "Esittely",
+    "name": "Minna Toikka",
+    "paragraph1": "Olen hyvinvoinnin ja kehon toimivuuden parissa työskentelevä ammattilainen. Työssäni minulle on tärkeää kohdata asiakas aidosti, kuunnella tarpeita ja rakentaa jokaiselle sopiva polku kohti parempaa oloa.",
+    "paragraph2": "Vastaanotollani yhdistyvät lempeys, asiantuntemus ja käytännönläheisyys. Tavoitteena ei ole vain hetkellinen helpotus, vaan pysyvämpi tuki kehon hyvinvointiin, liikkumisen sujuvuuteen ja arjen jaksamiseen.",
+    "whyTitle": "Miksi valita Kehokorjaamo?",
+    "reasons": [
+      "Rauhallinen, helposti lähestyttävä ja asiakaslähtöinen ote",
+      "Palvelut kehonhuollosta tavoitteelliseen valmennukseen",
+      "Selkeät ohjeet ja tuki myös käyntien välille",
+      "Moderni, lämmin ja helposti lähestyttävä palvelukokemus"
+    ]
+  },
+  "contact": {
+    "eyebrow": "Yhteydenotto",
+    "title": "Ota yhteyttä tai varaa aika",
+    "text": "Voit ottaa yhteyttä lomakkeella, sähköpostilla tai puhelimitse. Vastaanotto sijaitsee Nukarilla, ja yhteydenotot onnistuvat helposti myös sähköpostitse.",
+    "emailLabel": "Sähköposti",
+    "phoneLabel": "Puhelin",
+    "addressLabel": "Toimipiste",
+    "email": "elajavoihyvin@gmail.com",
+    "phone": "+358 45 874 0604",
+    "phoneLabelValue": "+358 45 874 0604 / Minna Toikka",
+    "address": "Kantolantie 3, 05450 Nukari"
+  },
+  "form": {
+    "title": "Lähetä viesti",
+    "nameLabel": "Nimi",
+    "namePlaceholder": "Oma nimesi",
+    "emailLabel": "Sähköposti",
+    "emailPlaceholder": "nimi@esimerkki.fi",
+    "messageLabel": "Viesti",
+    "messagePlaceholder": "Kerro lyhyesti, missä voin auttaa",
+    "submit": "Lähetä viesti",
+    "submitting": "Lähetetään...",
+    "success": "Kiitos viestistä! Palaan sinulle pian.",
+    "error": "Viestin lähetys epäonnistui. Kokeile uudelleen tai ota yhteyttä sähköpostilla.",
+    "statusConfigMissing": "EmailJS-asetukset puuttuvat tai kirjasto ei latautunut."
+  },
+  "footer": {
+    "brandName": "Kehokorjaamo",
+    "brandTagline": "Jäsenkorjaus & Valmennus",
+    "companyTitle": "Yrityksen tiedot"
+  },
+  "company": {
+    "officialName": "Elä ja voi hyvin Minna Toikka",
+    "businessId": "2566722-3"
+  }
+}
